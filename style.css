@@ -1,6 +1,6 @@
 body{
         
-    background-color:rgb(30, 31, 30);
+    background-color:rgb(53, 53, 53);
        transition: 0.2s ease-in-out ; 
     /* background: linear-gradient(black white); Dark gradient */
     font-family: 'dela gothic one';
@@ -14,7 +14,7 @@ h1{
     padding: 0;
     text-align: left;
     font-size: 3rem;
-    color: rgb(179, 226, 148);
+    color: rgb(208, 239, 209);
 }
 
 .add-btn{
